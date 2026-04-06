@@ -1,1 +1,1 @@
-# Alx-PathwayLearning is fun
+# Alx-Pathway Learning is fun
